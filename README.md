@@ -4,10 +4,10 @@ This is a tiny distro of Linux OS called Boom.
 
 References:
 
-Nir Luchtman. https://www.youtube.com/watch?v=u2Juz5sQyYQ
-X86 calling conventions, https://en.wikipedia.org/wiki/X86_calling_conventions
-Intel, Instruction Set Reference, SYSCALL - Fast System Call
-System calls header - arch/x86/include/generated/asm/syscalls_64.h
+Nir Luchtman. https://www.youtube.com/watch?v=u2Juz5sQyYQ  
+X86 calling conventions, https://en.wikipedia.org/wiki/X86_calling_conventions  
+Intel, Instruction Set Reference, SYSCALL - Fast System Call  
+System calls header - arch/x86/include/generated/asm/syscalls_64.h  
 
 Build instructions:
 
